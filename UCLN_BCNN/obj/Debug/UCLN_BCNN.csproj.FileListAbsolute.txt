@@ -1,0 +1,10 @@
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\bin\Debug\UCLN_BCNN.exe.config
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\bin\Debug\UCLN_BCNN.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\bin\Debug\UCLN_BCNN.pdb
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.csproj.AssemblyReference.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.Form1.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.Properties.Resources.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.csproj.GenerateResource.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.csproj.CoreCompileInputs.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\UCLN_BCNN\UCLN_BCNN\obj\Debug\UCLN_BCNN.pdb
