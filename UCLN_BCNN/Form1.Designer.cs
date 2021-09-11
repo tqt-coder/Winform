@@ -199,6 +199,7 @@ namespace UCLN_BCNN
             this.rb_bc.TabStop = true;
             this.rb_bc.Text = "BSCNN";
             this.rb_bc.UseVisualStyleBackColor = true;
+            this.rb_bc.CheckedChanged += new System.EventHandler(this.rb_bc_CheckedChanged);
             // 
             // rb_uc
             // 
@@ -210,6 +211,7 @@ namespace UCLN_BCNN
             this.rb_uc.TabStop = true;
             this.rb_uc.Text = "USCLN";
             this.rb_uc.UseVisualStyleBackColor = true;
+            this.rb_uc.CheckedChanged += new System.EventHandler(this.rb_uc_CheckedChanged);
             // 
             // label2
             // 
