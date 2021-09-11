@@ -1,0 +1,10 @@
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe.config
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.pdb
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.AssemblyReference.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.Form1.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.Properties.Resources.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.GenerateResource.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\PhuongTrinhBacHai\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.pdb
