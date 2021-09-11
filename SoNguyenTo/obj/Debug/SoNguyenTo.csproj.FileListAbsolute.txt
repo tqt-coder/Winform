@@ -1,0 +1,10 @@
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe.config
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\bin\Debug\SoNguyenTo.pdb
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.AssemblyReference.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.Form1.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.Properties.Resources.resources
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.GenerateResource.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.exe
+C:\Year 2020-2020\Semester 1\TechnicalSoftWare\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
